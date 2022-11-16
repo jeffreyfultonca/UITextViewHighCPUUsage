@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  UITextViewHighCPUBug
-//
-//  Created by Jeffrey on 2022-11-16.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
