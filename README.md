@@ -1,4 +1,4 @@
 # UITextViewHighCPUUsage
 Demonstration of UITextView causing high CPU usage when selectable on macOS Ventura.
 
-<video src='UITextView_High_CPU_Usage_Example.mp4' width=180/>
+https://user-images.githubusercontent.com/3182613/202333548-ad439ca0-acc9-45a6-8aa4-d6eca76f45ad.mp4
